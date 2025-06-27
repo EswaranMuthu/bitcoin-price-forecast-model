@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score, classification_report
 
 
 # Replace with the actual filename you see
-df = pd.read_csv("/kaggle/input/bitcoin-historical-data/btcusd_1-min_data.csv")
+df = pd.read_csv("/kaggle/input/bitcoin-historical-data/btcus_data.csv")
 
 df_sorted = df.sort_values(by='Timestamp', ascending=False)
 
