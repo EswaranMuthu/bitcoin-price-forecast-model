@@ -26,7 +26,7 @@ download btc historical dataset.
 
 ## 📊 Dataset
 
-- **Source**: [Kaggle - Historical Bitcoin Prices](https://www.kaggle.com/datasets) *(insert actual link if public)*
+- **Source**: [Kaggle - Historical Bitcoin Prices](https://www.kaggle.com/datasets)
 - Data contains daily BTC **timestamp, open, high, low, close, and volume**.
 
 ## 🏷️ Target Label Creation (Buy Signal)
