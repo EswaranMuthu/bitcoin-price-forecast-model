@@ -21,7 +21,7 @@ The XGBoost model was evaluated on a 200-sample test set. Here's the classificat
 # 📈 Bitcoin Price Movement Prediction using XGBoost
 
 This project aims to build a machine learning model that can **predict short-term Bitcoin (BTC) price direction**, labeling each day with a "Buy" signal (`1`) if the price is expected to go up the next day, or `0` otherwise. The model is trained using **enriched historical BTC data**, with technical features like volatility and volume changes, and evaluated using XGBoost.
-
+download btc historical dataset.
 ---
 
 ## 📊 Dataset
