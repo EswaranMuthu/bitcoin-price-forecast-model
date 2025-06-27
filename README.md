@@ -17,3 +17,18 @@ The XGBoost model was evaluated on a 200-sample test set. Here's the classificat
 - ✅ **High precision for 'Buy' signals (0.95)** — fewer false positives
 - ✅ Good **overall balance** in F1-score (~0.89)
 - ✅ Can be used for **day trading signal filtering**
+
+# 📈 Bitcoin Price Movement Prediction using XGBoost
+
+This project aims to build a machine learning model that can **predict short-term Bitcoin (BTC) price direction**, labeling each day with a "Buy" signal (`1`) if the price is expected to go up the next day, or `0` otherwise. The model is trained using **enriched historical BTC data**, with technical features like volatility and volume changes, and evaluated using XGBoost.
+
+---
+
+## 📊 Dataset
+
+- **Source**: [Kaggle - Historical Bitcoin Prices](https://www.kaggle.com/datasets) *(insert actual link if public)*
+- Data contains daily BTC **timestamp, open, high, low, close, and volume**.
+
+## 🏷️ Target Label Creation (Buy Signal)
+
+## 🏷️ Train and test the ML model
